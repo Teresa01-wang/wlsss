@@ -2,3 +2,7 @@
 	url  = https://gitee.com/teresa11/sentaurus-study_sprocess
 	path = sprocess
 
+[submodule "1"]
+	url  = https://gitee.com/teresa11/sentaurus-study_sprocess
+	path = 1
+
